@@ -7,3 +7,5 @@
 * 💻 Github (<a href="http://corey-loftus.netlify.app/" target="_blank">https://github.com/coreyloftus</a>)
 
 Let's talk!
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
